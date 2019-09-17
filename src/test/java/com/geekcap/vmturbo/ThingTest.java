@@ -14,5 +14,5 @@ public class ThingTest {
         t.setN(5);
         Assert.assertEquals("N should be 5", 5, t.getN());
     }
-    continue;
+    
 }
